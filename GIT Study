@@ -1,2 +1,7 @@
-This is a test file
-I want to check how it works
+Run the below Commands in git
+Type git to check if git is installed 
+git config --global user.name "elavendran"
+git config --global user.email "elavendran.ks@live.com"
+
+Git steps
+Inset-> Add -> Commit -> Push 
